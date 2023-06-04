@@ -1,0 +1,9 @@
+[parent dir]>yarn create vite
+	nombre del proyecto
+	framework -> react
+	javascript
+eliminar de src todo menos main.jsx
+crear jsx de app y usar shortcut rafc para crear componente
+usar ese componente en main.jsx
+[app dir]>yarn
+
