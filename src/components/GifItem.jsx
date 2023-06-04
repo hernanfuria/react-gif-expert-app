@@ -10,7 +10,6 @@ export const GifItem = ({id, title, url}) => {
 }
 
 GifItem.propTypes = {  // defines input type hints
-    id: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     url: PropTypes.string.isRequired,
 }
